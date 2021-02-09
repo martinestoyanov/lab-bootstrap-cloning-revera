@@ -1,0 +1,8 @@
+#widget-container {
+    background-color: #ed564b;
+}
+
+#widget-container .card{
+    background-color: #ed564b;
+    border: none;
+}
